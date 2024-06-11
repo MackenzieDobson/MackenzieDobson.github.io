@@ -33,7 +33,7 @@ To empirically evaluate bipartisan lawmaking, I introduce three novel measures: 
 
 - Bipartisan Campaigning and Effectiveness: In “Bipartisan Campaigners Become Bipartisan Legislators and Effective Lawmakers” (with Craig Volden and Alan E. Wiseman), we demonstrate that candidates who campaign on bipartisan commitments follow through and become effective lawmakers.
 
-As a member of the State Legislative Bill Text Team with the Center for Effective Lawmaking, I am involved in collecting bill introductions from 1987 to 2024. Using large language models, we aim to create issue-specific state legislative effectiveness scores for over 80,300 observations.
+As a member of the State Legislative Bill Text Team with the Center for Effective Lawmaking, I am involved in collecting bill introductions from 1987 to 2024. Using large language models, we aim to create issue-specific state legislative effectiveness scores for over 80,300 legislator-term specific observations.
 
 
 
