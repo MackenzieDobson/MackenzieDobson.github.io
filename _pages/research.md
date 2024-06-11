@@ -8,7 +8,7 @@ author_profile: true
 
 - **Mackenzie R. Dobson**, Craig Volden, and Alan E. Wiseman. "Bipartisan Campaigners Become Bipartisan Legislators and Effective Lawmakers."
   
-- Jacob M. Lollis and **Mackenzie R. Dobson**. "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers." [[Paper]](/files/I'mComingOut.pdf)
+- Jacob M. Lollis and **Mackenzie R. Dobson**. "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers." [[Paper]](/files/imcomingout.pdf)
 
 
 
