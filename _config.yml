@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mackenzie Dobson"
+  name: "Mackenzie Dobson"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Candidate, University of Virginia Visiting Pre-Doc, University of Notre Dame""
   location         : "South Bend, IN"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/rachel-porter-03292674/"
+  linkedin         : 
   orcid            : # is # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
