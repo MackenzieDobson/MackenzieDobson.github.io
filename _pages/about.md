@@ -8,11 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor of Political Science at the [University of Notre Dame](https://politicalscience.nd.edu/) and a Computational Social Science Faculty Fellow with the [Lucy Family Institute for Data and Society](https://lucyinstitute.nd.edu/). Additionally, I co-direct the [Representation and Politics in Legislatures Lab](https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/) within the [Rooney Center for American Democracy](https://rooneycenter.nd.edu/).   
+Welcome! I am a Ph.D. Candidate in the Department of Politics at the University of Virginia and a Graduate Affiliate with the [Center for Effective Lawmaking](https://thelawmakers.org/). Additionally, I am a visiting pre-doctoral scholar within the [Representation and Politics in Legislatures Lab](https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/)
+at the [University of Notre Dame](https://politicalscience.nd.edu/).
 
-My research centers on American political institutions, specifically the U.S. Congress, political representation, elections, and money in politics. My work has been published in outlets such as  *The Journal of Politics*,  *The American Journal of Political Science*, and  *Legislative Studies Quarterly*. My Google Scholar profile can be found [here](https://scholar.google.com/citations?user=CuQqTt4AAAAJ&hl=en).
+My research focuses on American political institutions, specificially state legislatures, representation, bipartisanship, and quantitative methods. 
 
-My dissertation, *Some Politics Are Still Local: Strategic Position Taking in Congress & Elections*, won the American Political Science Association's [E.E. Schattschneider Award](https://politicalsciencenow.com/rachel-porter-receives-the-2023-e-e-schattschneider-award/) for the best dissertation on American government. This project employs text data, including an original collection of campaign platforms from candidates' campaign websites, to investigate electoral and legislative position-taking on national versus local issues. I received my Ph.D. from the University of North Carolina at Chapel Hill in 2022 and a B.A. in Political Science and International Affairs from the University of Georgia in 2016. 
+In my dissertation, *From Campaigns to Governance: Exploring Bipartisanship in State Legislatures*, I challenge the notion that insights from the U.S. House of Representatives alone can universally explain legislative functionality. I argue that bipartisanship is conditional on the institutional rules and procedures, as well as the partisan
+composition of legislatures. To empirically test my argument, I leverage variation in state
+legislative chambers to engage with questions related to bipartisanship in electoral arenas and legislative institutions.
+
+Dissertation Highlights:
+
+Campaigns and Governance: I analyze when first-time state legislative candidates campaign on bipartisanship and their subsequent legislative behavior and effectiveness. This involves a novel dataset of campaign documents from 12,000 state legislators elected between 1968 and 2018.
+
+Bipartisan Lawmaking: I develop a chamber-level measure of bipartisan lawmaking for 94 legislative chambers from 2009 to 2018, examining how rules and provisions affect cross-party collaboration.
+
+Majority Security and Bipartisanship: I study the impact of majority security on bipartisan lawmaking using a legislator-level bipartisan cosponsorship score across 24,327 observations.
+To empirically evaluate bipartisan lawmaking, I introduce three novel measures: the Bipartisan Rhetoric Score, the Chamber Bipartisan Cosponsorship Score, and the Legislator Bipartisan Cosponsorship Score, supported by a Center for Effective Lawmaking (CEL) Small Grant Award.
+
+Additional Research:
+
+LGBTQ Lawmakers: In “I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers” (with Jacob Lollis), we find that LGBTQ lawmakers, who face electoral discrimination, are 43% more effective than their non-LGBTQ counterparts.
+Legislative Professionalism: “Cashing in on Capacity? Social Class and Attitudes Toward Professionalized Legislatures” (with Jacob M. Lollis, Jeffrey J. Harden, and Justin Kirkland) explores how citizens’ disapproval of professionalized legislatures stems from membership composition rather than capacity-building tools.
+
+Bipartisan Campaigning and Effectiveness: In “Bipartisan Campaigners Become Bipartisan Legislators and Effective Lawmakers” (with Craig Volden and Alan E. Wiseman), we demonstrate that candidates who campaign on bipartisan commitments follow through and become effective lawmakers.
+
+As a graduate affiliate with the CEL and a member of the State Legislative Bill Text Team, I am involved in collecting bill introductions from 1987 to 2024. Using large language models, we aim to create issue-specific state legislative effectiveness scores for over 80,300 observations.
+
+
 
 
 
