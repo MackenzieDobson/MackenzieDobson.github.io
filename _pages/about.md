@@ -20,7 +20,7 @@ legislative chambers to engage with questions related to bipartisanship in elect
 <strong><span style="text-decoration: underline;">Dissertation Highlights</span></strong>:
 - Campaign Rhetoric: I analyze when first-time state legislative candidates campaign on bipartisanship using text analysis methods and subsequently evaluate their legislative behavior and effectiveness. This involves a novel dataset of campaign documents for 12,000 state legislators elected between 1968 and 2018.
 
-- Bipartisan Lawmaking: I develop a chamber-level measure of bipartisan lawmaking for 94 legislative chambers from 2009 to 2018, examining how rules and provisions affect cross-party collaboration.
+- Bipartisan Lawmaking: I develop a chamber-level measure of bipartisan lawmaking for 94 legislative chambers from 2009 to 2018 and examine how rules, procedures, and norms affect cross-party collaboration.
 
 - Majority Security and Bipartisanship: I study the impact of majority security on bipartisan lawmaking using a legislator-level bipartisan cosponsorship score for 24,327 legislator-term specific observations from 2009 to 2018.
 
