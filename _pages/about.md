@@ -25,7 +25,7 @@ legislative chambers to engage with questions related to bipartisanship in elect
 
 - Bipartisan Lawmaking: I develop a chamber-level measure of bipartisan lawmaking for 94 legislative chambers from 2009 to 2018, examining how rules and provisions affect cross-party collaboration.
 
-- Majority Security and Bipartisanship: I study the impact of majority security on bipartisan lawmaking using a legislator-level bipartisan cosponsorship score across 24,327 observations.
+- Majority Security and Bipartisanship: I study the impact of majority security on bipartisan lawmaking using a legislator-level bipartisan cosponsorship score for 24,327 legislator-term specific observations from 2009 to 2018.
 
 To empirically evaluate bipartisan lawmaking, I introduce three novel measures: the Bipartisan Rhetoric Score, the Chamber Bipartisan Cosponsorship Score, and the Legislator Bipartisan Cosponsorship Score, supported by a Center for Effective Lawmaking (CEL) Small Grant Award.
 
