@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! I am a Ph.D. Candidate in the Department of Politics at the University of Virginia and a Graduate Affiliate with the [Center for Effective Lawmaking](https://thelawmakers.org/). Additionally, I am a visiting pre-doctoral scholar within the [Representation and Politics in Legislatures Lab](https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/)
-at the [University of Notre Dame](https://politicalscience.nd.edu/).
+at the University of Notre Dame.
 
 My research focuses on American political institutions, specificially state legislatures, representation, bipartisanship, and quantitative methods. 
 
