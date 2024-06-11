@@ -17,7 +17,7 @@ In my dissertation, *From Campaigns to Governance: Exploring Bipartisanship in S
 composition of legislatures. To empirically test my argument, I leverage variation in state
 legislative chambers to engage with questions related to bipartisanship in electoral arenas and legislative institutions.
 
-**<u>Dissertation Highlights</u>**:
+<u><strong>Dissertation Highlights</strong></u>:
 
 **Campaign Rhetoric**: I analyze when first-time state legislative candidates campaign on bipartisanship using text analysis methods and subsequently evaluate their legislative behavior and effectiveness. This involves a novel dataset of campaign documents for 12,000 state legislators elected between 1968 and 2018.
 
