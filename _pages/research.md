@@ -18,6 +18,9 @@ author_profile: true
 
 - "Instituting Compromise? How Legislative Institutions Prevent and Promote Bipartisan Lawmaking")
   
-- "Bipartisanship Secured: How Secure Majorities Lead to Cross-Party Collaboratoion"
+- "Bipartisanship Secured: How Secure Majorities Lead to Cross-Party Collaboration"
+
+- "The Substantive Representation of LGBTQ Americans: Evidence from 1.6 Mil-
+lion State Legislative Bills” *with Jacob M. Lollis*
 
 
