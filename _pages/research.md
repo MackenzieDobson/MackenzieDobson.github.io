@@ -20,7 +20,6 @@ author_profile: true
   
 - "Bipartisanship Secured: How Secure Majorities Lead to Cross-Party Collaboration"
 
-- "The Substantive Representation of LGBTQ Americans: Evidence from 1.6 Mil-
-lion State Legislative Bills” *with Jacob M. Lollis*
+- "The Substantive Representation of LGBTQ Americans: Evidence from 1.6 Million State Legislative Bills” *with Jacob M. Lollis*
 
 
