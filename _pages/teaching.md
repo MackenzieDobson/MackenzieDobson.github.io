@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have taught both as an instructor of record and teaching assistant. I have engaged with students in both large- and small-class settings, as well as designed curriculm materials.
+I have taught both as an instructor of record and as a teaching assistant. I have engaged with students in both large- and small-class settings, as well as designed curriculm materials.
 
 ### Courses as the Instructor of Record (University of Richmond) 
 - Introduction to Public Policy (Fall 2023, Spring 2024)
