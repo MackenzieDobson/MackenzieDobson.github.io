@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachel Porter"
+title                    : "Mackenzie Dobson"
 title_separator          : "-"
-name                     : &name "Rachel Porter"
-description              : &description "Assistant Professor, University of Notre Dame"
+name                     : &name "Mackenzie Dobson"
+description              : &description "Ph.D. Candidate, University of Virginia Visiting Pre-Doc, University of Notre Dame"
 url                      : https://rachelporter.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "porter-rachel.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rachel Porter"
+  name             : "Mackenzie Dobson"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor, University of Notre Dame"
+  bio              : "Ph.D. Candidate, University of Virginia Visiting Pre-Doc, University of Notre Dame""
   location         : "South Bend, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=CuQqTt4AAAAJ"
-  email            : "rachel.porter@nd.edu"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=3H7WdeQAAAAJ&authuser=1"
+  email            : "mdobson2@nd.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "porter-rachel"
+  github           : "MackenzieDobson"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@rachel__porter"
+  twitter          : "@MackenzieDobso2"
   vine             :
   weibo            :
   xing             :
