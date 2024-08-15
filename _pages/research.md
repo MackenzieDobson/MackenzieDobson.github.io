@@ -16,7 +16,7 @@ author_profile: true
 
 - "Campaigning on Compromise: Exploring the Influence of Bipartisan Language in State Legislative Campaigns" 
 
-- "Instituting Compromise? How Legislative Institutions Prevent and Promote Bipartisan Lawmaking")
+- "Instituting Compromise? How Legislative Institutions Prevent and Promote Bipartisan Lawmaking"
   
 - "Bipartisanship Secured: How Secure Majorities Lead to Cross-Party Collaboration"
 
