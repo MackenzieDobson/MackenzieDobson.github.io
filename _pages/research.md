@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+ 
 ### Papers Under Review 
 
 - **Mackenzie R. Dobson**, Craig Volden, and Alan E. Wiseman. "Bipartisan Campaigners Become Bipartisan Legislators and Effective Lawmakers."
