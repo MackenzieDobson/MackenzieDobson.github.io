@@ -22,7 +22,7 @@ author_profile: true
 
 - "The Substantive Representation of LGBTQ Americans: Evidence from 1.6 Million State Legislative Bills” *with Jacob M. Lollis*
 
-- "Cashing in on Capacity? Social Class and Attitudes Toward Professionalized Legislatures" *with Jacob M. Lollis, Jeff Harden, and Justin Kirland"
+- "Cashing in on Capacity? Social Class and Attitudes Toward Professionalized Legislatures" *with Jacob M. Lollis, Jeff Harden, and Justin Kirland*
 
 - "The Consequences of Elite Action Against Elections” *with Jeff Harden, Rachel Porter, Abigail Hemmen, Emma Schroeder, Géssica de Freitas, and Emily Anderson*
 
