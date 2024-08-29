@@ -11,7 +11,7 @@ redirect_from:
 Welcome! I am a Ph.D. Candidate in the Department of Politics at the University of Virginia and a Graduate Affiliate with the [Center for Effective Lawmaking](https://thelawmakers.org/). Additionally, I am a Visiting Scholar within the [Representation and Politics in Legislatures Lab](https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/)
 at the University of Notre Dame.
 
-My research focuses on American legislative institutions, party conflict and compromise, state politics, representation, and computation methods for social science. 
+My research focuses on American legislative institutions, party conflict and compromise, state politics, representation, and computational methods for social science. 
 
 In my dissertation, *From Campaigns to Governance: Exploring Bipartisanship in State Legislatures*, I challenge the notion that insights from the U.S. House of Representatives alone can universally explain legislative functionality. I argue that bipartisanship is conditional on the institutional rules and procedures, as well as the partisan
 composition of legislatures. To empirically test my argument, I leverage variation in state
