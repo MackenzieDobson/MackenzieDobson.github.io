@@ -8,7 +8,10 @@ author_profile: true
 
 - **Mackenzie R. Dobson**, Craig Volden, and Alan E. Wiseman. "Bipartisan Campaigners Become Bipartisan Legislators and Effective Lawmakers."
   
-- Jacob M. Lollis and **Mackenzie R. Dobson**. "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers." [[Paper]](/files/imcomingout.pdf)
+- Jacob M. Lollis and **Mackenzie R. Dobson**. "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers." [[Paper]](/files/I'mComingOut_RR.pdf)
+  **Invited to Revise and Resubmit at PS: Political Science & Politics.** 
+
+- **Mackenzie R. Dobson**, Jacob M. Lollis, Jeff Harden, and Justin Kirkland. "Cashing in on Capacity? Social Class and Attitudes Toward Professionalized Legislatures." [[Paper]](/files/CashingInOnCapacity_anon.pdf)
 
 
 
@@ -21,9 +24,7 @@ author_profile: true
 - "Bipartisanship Secured: How Secure Majorities Lead to Cross-Party Collaboration"
 
 - "The Substantive Representation of LGBTQ Americans: Evidence from 1.6 Million State Legislative Bills” *with Jacob M. Lollis*
-
-- "Cashing in on Capacity? Social Class and Attitudes Toward Professionalized Legislatures" *with Jacob M. Lollis, Jeff Harden, and Justin Kirland*
-
+  
 - "The Consequences of Elite Action Against Elections” *with Jeff Harden, Rachel Porter, Abigail Hemmen, Emma Schroeder, Géssica de Freitas, and Emily Anderson*
 
 
